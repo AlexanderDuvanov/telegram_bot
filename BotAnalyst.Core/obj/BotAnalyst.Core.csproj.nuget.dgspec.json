@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Education\\BotAnalyst\\BotAnalyst.Core\\BotAnalyst.Core.csproj": {}
+    "E:\\Education\\BotAnalyst\\telegram_bot\\BotAnalyst.Core\\BotAnalyst.Core.csproj": {}
   },
   "projects": {
-    "E:\\Education\\BotAnalyst\\BotAnalyst.Core\\BotAnalyst.Core.csproj": {
+    "E:\\Education\\BotAnalyst\\telegram_bot\\BotAnalyst.Core\\BotAnalyst.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Education\\BotAnalyst\\BotAnalyst.Core\\BotAnalyst.Core.csproj",
+        "projectUniqueName": "E:\\Education\\BotAnalyst\\telegram_bot\\BotAnalyst.Core\\BotAnalyst.Core.csproj",
         "projectName": "BotAnalyst.Core",
-        "projectPath": "E:\\Education\\BotAnalyst\\BotAnalyst.Core\\BotAnalyst.Core.csproj",
+        "projectPath": "E:\\Education\\BotAnalyst\\telegram_bot\\BotAnalyst.Core\\BotAnalyst.Core.csproj",
         "packagesPath": "C:\\Users\\Александр\\.nuget\\packages\\",
-        "outputPath": "E:\\Education\\BotAnalyst\\BotAnalyst.Core\\obj\\",
+        "outputPath": "E:\\Education\\BotAnalyst\\telegram_bot\\BotAnalyst.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
